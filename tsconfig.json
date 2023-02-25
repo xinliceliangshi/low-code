@@ -1,0 +1,10 @@
+{
+
+  "include": [
+    "../low-code-wy/test/test.js",
+
+  ],
+  "compilerOptions": {
+    "outDir": "./dist/"
+  }
+}
